@@ -1,2 +1,41 @@
-# TM_portfolio
-This repository serves as a central hub for my projects in Machine Learning, Data Science, Deep Learning, Data Visualization, and Data Analytics.
+# Timur Mamadaliyev's Portfolio
+
+Welcome to my GitHub portfolio! Here, you'll find a curated selection of my projects showcasing my expertise in Machine Learning, Data Science, Deep Learning and Data Analytics. Feel free to explore and reach out with any questions or collaboration ideas.
+
+## Skills
+- **Programming Languages:** Python, SQL
+- **Libraries/Frameworks:** TensorFlow, PyTorch, scikit-learn, Plotly, Dash
+- **Big Data Tools:** PySpark
+- **Areas of Expertise:** Machine Learning, Deep Learning, Data Visualization, Dashboard Development
+
+
+## Featured Projects
+
+### [Dissertation Thesis](https://github.com/TimurMMD/Dissertation_Thesis)
+An interactive dashboard for predicting stock returns using machine learning and visualization tools. 
+- **Technologies:** Python, Dash, Prophet, TabNet
+- **Highlights:** Predicts best/worst 5 stocks and visualizes potential price ranges.
+
+### [AI Neural Networks](https://github.com/TimurMMD/AI_LSBF-UEL_project)
+Implementations of deep learning models, including convolutional and recurrent neural networks. 
+- **Technologies:** TensorFlow, PyTorch
+- **Highlights:** Image classification, time-series forecasting.
+
+### [Machine Learning Projects](https://github.com/TimurMMD/ML_projects)
+Implementations of different ML models for classifaction and regression.
+- **Technologies:** XGBoost, RandomForest, KNN, SVM, LogisticRegression, ElasticNet, AdaBoost
+- **Highlights:** Classification, Regression problems, EDA
+
+### [Dashboard from Dissertation](https://github.com/TimurMMD/dashboard)
+A comprehensive study on using machine learning for long-term stock return prediction.
+- **Technologies:** Python, Plotly, Dash, Render
+- **Highlights:** Developed an interactive investment dashboard.
+
+## Certifications
+- [PH526x: Using Python for Research by Harvard University (HarvardX)](https://courses.edx.org/certificates/a7a45321615d4040b0488909db26da71)
+- [CS109xa: Machine Learning and AI with Python by Harvard University (Harvardx)](https://courses.edx.org/certificates/4038e3012a87416c9e599cdd9a242f6f)
+
+## Contact
+- **Email:** mamadaliyevtv@gmail.com
+- **LinkedIn:** [timur_mamadaliyev_linkedin](https://www.linkedin.com/in/timur-mamadaliyev-52b9932b1/)
+
