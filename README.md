@@ -28,8 +28,8 @@ Implementations of deep learning models, including convolutional and recurrent n
 
 ### [Big Data Course](https://github.com/TimurMMD/Big-Data-UEL-project)
 Implementations of deep learning models, including convolutional and recurrent neural networks. 
-- **Technologies:** TensorFlow, PyTorch
-- **Highlights:** Image classification, time-series forecasting.
+- **Technologies:** PySpark, XGBoost, pandas, skikit-learn. 
+- **Highlights:** Classification problem, Exploratory Analysis
 
 ### [Machine Learning Projects](https://github.com/TimurMMD/ML_projects)
 Implementations of different ML models for classifaction and regression.
