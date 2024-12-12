@@ -16,7 +16,17 @@ An interactive dashboard for predicting stock returns using machine learning and
 - **Technologies:** Python, Dash, Prophet, TabNet
 - **Highlights:** Predicts best/worst 5 stocks and visualizes potential price ranges.
 
-### [AI Neural Networks](https://github.com/TimurMMD/AI_LSBF-UEL_project)
+### [Dashboard from Dissertation](https://github.com/TimurMMD/dashboard)
+A comprehensive study on using machine learning for long-term stock return prediction.
+- **Technologies:** Python, Plotly, Dash, Render
+- **Highlights:** Developed an interactive investment dashboard.
+
+### [AI UEL Course](https://github.com/TimurMMD/AI_LSBF-UEL_project)
+Implementations of deep learning models, including convolutional and recurrent neural networks. 
+- **Technologies:** TensorFlow, PyTorch
+- **Highlights:** Image classification, time-series forecasting.
+
+### [Big Data Course](https://github.com/TimurMMD/Big-Data-UEL-project)
 Implementations of deep learning models, including convolutional and recurrent neural networks. 
 - **Technologies:** TensorFlow, PyTorch
 - **Highlights:** Image classification, time-series forecasting.
@@ -26,10 +36,10 @@ Implementations of different ML models for classifaction and regression.
 - **Technologies:** XGBoost, RandomForest, KNN, SVM, LogisticRegression, ElasticNet, AdaBoost
 - **Highlights:** Classification, Regression problems, EDA
 
-### [Dashboard from Dissertation](https://github.com/TimurMMD/dashboard)
-A comprehensive study on using machine learning for long-term stock return prediction.
-- **Technologies:** Python, Plotly, Dash, Render
-- **Highlights:** Developed an interactive investment dashboard.
+### [Neural Network Projects](https://github.com/TimurMMD/NN_projects)
+Implementations of different NN models for different tasks.
+- **Technologies:** Pytorch, Tensorflow, Keras, Deep Learning
+- **Highlights:** Classification, Regression problems, EDA
 
 ## Certifications
 - [PH526x: Using Python for Research by Harvard University (HarvardX)](https://courses.edx.org/certificates/a7a45321615d4040b0488909db26da71)
