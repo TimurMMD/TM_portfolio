@@ -16,6 +16,11 @@ An interactive dashboard for predicting stock returns using machine learning and
 - **Technologies:** Python, Dash, Prophet, TabNet
 - **Highlights:** Predicts best/worst 5 stocks and visualizes potential price ranges.
 
+### [Machine Learning Projects](https://github.com/TimurMMD/ML_projects)
+Implementations of different ML models for classifaction and regression.
+- **Technologies:** XGBoost, RandomForest, KNN, SVM, LogisticRegression, ElasticNet, AdaBoost
+- **Highlights:** Classification, Regression problems, EDA
+
 ### [Dashboard from Dissertation](https://github.com/TimurMMD/dashboard)
 A comprehensive study on using machine learning for long-term stock return prediction.
 - **Technologies:** Python, Plotly, Dash, Render
@@ -30,11 +35,6 @@ Implementations of deep learning models, including convolutional and recurrent n
 Implementations of deep learning models, including convolutional and recurrent neural networks. 
 - **Technologies:** PySpark, XGBoost, pandas, skikit-learn. 
 - **Highlights:** Classification problem, Exploratory Analysis
-
-### [Machine Learning Projects](https://github.com/TimurMMD/ML_projects)
-Implementations of different ML models for classifaction and regression.
-- **Technologies:** XGBoost, RandomForest, KNN, SVM, LogisticRegression, ElasticNet, AdaBoost
-- **Highlights:** Classification, Regression problems, EDA
 
 ### [Neural Network Projects](https://github.com/TimurMMD/NN_projects)
 Implementations of different NN models for different tasks.
