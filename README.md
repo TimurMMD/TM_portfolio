@@ -49,7 +49,8 @@ Implementations of different NN models for different tasks.
 ## Certifications
 - [PH526x: Using Python for Research by Harvard University (HarvardX)](https://courses.edx.org/certificates/a7a45321615d4040b0488909db26da71)
 - [CS109xa: Machine Learning and AI with Python by Harvard University (Harvardx)](https://courses.edx.org/certificates/4038e3012a87416c9e599cdd9a242f6f)
-
+- [Data Engineer Certificate](https://www.datacamp.com/certificate/DE0019573591218)
+- [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0013029951391)
 ## Contact
 - **Email:** mamadaliyevtv@gmail.com
 - **LinkedIn:** [timur_mamadaliyev_linkedin](https://www.linkedin.com/in/timur-mamadaliyev-52b9932b1/)
