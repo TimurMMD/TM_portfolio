@@ -1,6 +1,6 @@
 # Timur Mamadaliyev's Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll find a curated selection of my projects showcasing my expertise in Machine Learning, Data Science, Deep Learning and Data Analytics. Feel free to explore and reach out with any questions or collaboration ideas.
+Welcome to my GitHub portfolio! Here, you'll find a curated selection of my projects showcasing my expertise in Data Engineering, Machine Learning, Data Science, Deep Learning and Data Analytics. Feel free to explore and reach out with any questions or collaboration ideas.
 
 ## Skills
 - **Programming Languages:** Python, SQL
