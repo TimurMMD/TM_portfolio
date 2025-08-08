@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here, you'll find a curated selection of my proj
 - **Programming Languages:** Python, SQL
 - **Libraries/Frameworks:** TensorFlow, PyTorch, scikit-learn, Plotly, Dash
 - **Big Data Tools:** PySpark
-- **Areas of Expertise:** Machine Learning, Deep Learning, Data Visualization, Dashboard Development
+- **Areas of Expertise:** Data Engineering, Machine Learning, Deep Learning, Data Visualization, Dashboard Development
 
 
 ## Featured Projects
@@ -15,6 +15,11 @@ Welcome to my GitHub portfolio! Here, you'll find a curated selection of my proj
 An interactive dashboard for predicting stock returns using machine learning and visualization tools. 
 - **Technologies:** Python, Dash, Prophet, TabNet
 - **Highlights:** Predicts best/worst 5 stocks and visualizes potential price ranges.
+
+### [SQL Projects](https://github.com/TimurMMD/SQL_projects)
+A collection of SQL projects that I’ve worked on to practice and demonstrate database querying, data analysis, and problem-solving skills.
+- **Technologies:** SQL (PostgreSQL 17)
+- **Tools:** pgAdmin – for database management
 
 ### [Machine Learning Projects](https://github.com/TimurMMD/ML_projects)
 Implementations of different ML models for classifaction and regression.
